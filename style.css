@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(106, 125, 244);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+}
+
+.contenido{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 3px;
+    margin-left: 10px;
+}
